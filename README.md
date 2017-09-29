@@ -1,2 +1,2 @@
 # LeetCode_exercise
-practice coding on Leetcode platform 
+practice coding on Leetcode platform. 

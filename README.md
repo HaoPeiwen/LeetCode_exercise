@@ -7,6 +7,7 @@
 numpy, pandas... For my visitors, in each file, I have added some hints to help you understand my code. If there are some mistakes you find in my codes, please contact me at never_say_never@sjtu.edu.cn or ycqsjtu@gmail.com, and thank you.
 
 ### All the LeetCode problems and the some ideas can be found here. <table style="width: 670px; height: 9113px;" dir="ltr" border="1" cellspacing="0" cellpadding="0">
+<br>
 <tbody>
 <tr style="background-color: #f5f5dc;">
 <td style="background-color: #fffaf0;" data-sheets-value="[null,3,null,228]">763</td>
